@@ -1,0 +1,5 @@
+
+【2019/08/25】
+・githubのリポジトリ設定（参考：https://qiita.com/qrusadorz/items/9916644e1af1453fe30b）
+　ー　「git remote add origin https://github.com/NJ-local/ssd-nnabla.git」@~/work_station/machine_learning/deep_learning/nnabla/ssd/
+
